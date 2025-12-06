@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**ninad2008/Ninad2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ninad Nilesh Deodhare from ITM kharghar pursueing BTECH - CSE , a curious learner and aspiring developer who loves building creative and fun projects. I enjoy exploring new technologies, experimenting with code, and improving my skills step-by-step.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on: Scratch projects, small games, and beginner-level Python/JavaScript experiments
+
+🌱 I’m currently learning: Web development, game design basics, and Git/GitHub
+
+🤝 I’m looking to collaborate on: Simple open-source projects, beginner-friendly ideas, and creative coding experiments
+
+💬 Ask me about: Scratch, game logic, UI ideas, or anything I’m learning
+
+📫 How to reach me: (Add a public GitHub email if you want — optional)
+
+😄 Fun fact: I love turning random ideas into working mini-projects
+
+🛠️ Tech & Tools
+
+Languages: JavaScript, Python, Scratch
+
+Tools: Git, GitHub, VS Code
+
+Interests: Game dev, animations, UI design, automation
